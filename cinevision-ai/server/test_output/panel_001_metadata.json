@@ -1,0 +1,20 @@
+{
+  "heading": "INT. LIVING ROOM - DAY",
+  "description": [
+    "A cozy living room with large windows. Sunlight streams in, illuminating the space.",
+    "JOHN, a man in his 30s, sits on the couch reading a book.",
+    "John's eyes scan the pages intently.",
+    "John looks up from his book.",
+    "Sarah enters the room carrying a large box."
+  ],
+  "camera_shots": [
+    "(CLOSE UP)",
+    "(WIDE SHOT)"
+  ],
+  "dialogue": [
+    {
+      "character": "SARAH (O.S.)",
+      "text": "John, can you help me with something?"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Camera lens circle -->
+  <circle cx="100" cy="100" r="80" stroke="white" stroke-width="8" fill="none"/>
+  
+  <!-- Lens elements -->
+  <circle cx="100" cy="100" r="60" stroke="white" stroke-width="4" fill="none"/>
+  <circle cx="100" cy="100" r="40" stroke="white" stroke-width="3" fill="none"/>
+  
+  <!-- Aperture blades -->
+  <path d="M100 40 L85 70 L115 70 Z" fill="white" opacity="0.8"/>
+  <path d="M160 100 L130 85 L130 115 Z" fill="white" opacity="0.8"/>
+  <path d="M100 160 L115 130 L85 130 Z" fill="white" opacity="0.8"/>
+  <path d="M40 100 L70 115 L70 85 Z" fill="white" opacity="0.8"/>
+  
+  <!-- AI circuit pattern -->
+  <path d="M30 100 Q50 50 100 50 Q150 50 170 100 Q150 150 100 150 Q50 150 30 100" 
+        stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+  
+  <!-- Dots representing AI nodes -->
+  <circle cx="65" cy="80" r="3" fill="white"/>
+  <circle cx="135" cy="80" r="3" fill="white"/>
+  <circle cx="100" cy="120" r="3" fill="white"/>
+  
+  <!-- Connecting lines -->
+  <line x1="65" y1="80" x2="135" y2="80" stroke="white" stroke-width="1" opacity="0.5"/>
+  <line x1="65" y1="80" x2="100" y2="120" stroke="white" stroke-width="1" opacity="0.5"/>
+  <line x1="135" y1="80" x2="100" y2="120" stroke="white" stroke-width="1" opacity="0.5"/>
+</svg>
